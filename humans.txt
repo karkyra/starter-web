@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Karkyra Karkyra karkyra@git.training @awesome
 
 # THANKS
 
