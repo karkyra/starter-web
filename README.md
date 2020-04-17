@@ -29,4 +29,4 @@ for review.
 
 ## Copyright
 
-git.training
+git.training. All rightes Reserved
