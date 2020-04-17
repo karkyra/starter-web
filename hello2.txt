@@ -1,3 +1,4 @@
 Created hello2.txt
 testing git fetch and rebase
 Adding one more line
+updating from command line
